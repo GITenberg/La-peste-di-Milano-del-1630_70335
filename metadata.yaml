@@ -1,0 +1,31 @@
+_repo: La-peste-di-Milano-del-1630_70335
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Cusani, Francesco
+    gutenberg_agent_id: '55711'
+    url: http://www.gutenberg.org/2009/agents/55711
+creator:
+  author:
+    agent_name: Ripamonti, Giuseppe
+    gutenberg_agent_id: '55710'
+    url: http://www.gutenberg.org/2009/agents/55710
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70335'
+language: it
+pgterms:marc904: https://archive.org/details/lapestedimilanod00ripa
+pgterms:marc905: 20220705092624ripamonti
+pgterms:marc906: '1841'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by The Internet Archive)
+publication_note: '  $aItaly :$bPirotta, $c1841.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La peste di Milano del 1630
+url: http://www.gutenberg.org/ebooks/70335
